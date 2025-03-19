@@ -84,3 +84,5 @@ For any queries or feedback, please reach out:
 * LinkedIn: https://www.linkedin.com/in/kumaramit02/
 
 * Email: amitk1602info@gmail.com
+
+⭐ **If you like this project, give it a star!** ⭐
