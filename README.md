@@ -1,5 +1,5 @@
 
-# Realtime Chat Application
+# BlinkTalk : Realtime Chat Application
 
 This is a realtime chat application built using both a frontend and backend. The application allows users to send and receive messages in real-time over WebSocket. The project includes two main components: the chat client (frontend) and chat server (backend).
 ## Features
