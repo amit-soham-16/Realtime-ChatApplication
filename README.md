@@ -65,7 +65,11 @@ The backend server should now be running at http://localhost:8080.
 * The chat interface will allow you to send and receive messages in real-time once the WebSocket connection to the backend is established.
 ## Image/Screenshot
 
-![image -chat](https://github.com/user-attachments/assets/f526db3e-2cfa-4e24-b604-242b37d02492)
+<img width="1257" height="851" alt="Dark theme chat" src="https://github.com/user-attachments/assets/f3cfb0b9-272d-4f4e-a508-8043af3d41e0" />
+
+<img width="1288" height="935" alt="Light theme chat" src="https://github.com/user-attachments/assets/84d52636-5023-40dc-8e37-50b35a0ffe7a" />
+
+
 ## Contributing
 
 1. Fork the repository.
